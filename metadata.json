@@ -1,0 +1,6 @@
+{
+  "name": "TrustVault — Multi-Chain Crypto Wallet",
+  "description": "Self-custody multi-chain digital asset wallet with WebAuthn biometric authentication, cross-chain swaps, staking, and hardware-grade vault controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
